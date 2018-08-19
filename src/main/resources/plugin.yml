@@ -1,0 +1,5 @@
+name: WorldLogger
+main: eu.letsmine.worldlogger.WorldLoggerPlugin
+version: 0.0.1
+author: KleinCrafter
+description: Logging World Changes
